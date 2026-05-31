@@ -50,7 +50,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/yourusername/foodguard.git
+git clone https://github.com/CoolGuog/foodguard.git
 cd foodguard
 
 # 安装依赖
