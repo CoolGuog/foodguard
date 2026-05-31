@@ -1,4 +1,4 @@
-# 食鉴 (FoodLens) — 基于 RAG + LangGraph + LLM 的食品配料智能分析系统
+# 食鉴 (FoodGuard) — 基于 RAG + LangGraph + LLM 的食品配料智能分析系统
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3+-green.svg)](https://www.langchain.com/)
